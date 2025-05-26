@@ -55,9 +55,9 @@ public class Counter {
 	}
 
 	public void duplicateCode(){
-		System.out.println("Duplicate Code")
-		System.out.println("Duplicate Code")		
-		System.out.println("Duplicate Code")
-		System.out.println("Duplicate Code")
+		System.out.println("Duplicate Code");
+		System.out.println("Duplicate Code");		
+		System.out.println("Duplicate Code");
+		System.out.println("Duplicate Code");
 	}
 }
