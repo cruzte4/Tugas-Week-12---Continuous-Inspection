@@ -18,7 +18,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/cruzte4/Tugas-Week-12---Continuous-Inspection</url>
     </repository>
   </distributionManagement>
 
